@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Bryce Gibson
+
+# THANKS
+
+    All the great people behind: Middleman, Grunt, Haml, Sass, Flat UI, jQuery, Zepto.js, Bootstrap, Compass, Jekyll, Github Pages and others I'm sure I've forgotten...
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

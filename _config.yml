@@ -1,0 +1,11 @@
+port: 4000
+auto: true
+safe: true
+server: true
+pygments: true
+exclude: ['LICENSE']
+description: 'TODO'
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
