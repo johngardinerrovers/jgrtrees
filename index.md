@@ -1,6 +1,8 @@
 ---
 layout: default
+published: true
 ---
+
 
 # Scout Christmas Trees
 
