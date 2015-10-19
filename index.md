@@ -5,6 +5,7 @@ published: true
 
 
 
+
 # Scout Christmas Trees
 
 Get ready for Christmas this December with a John Gardiner Rover Crew Christmas tree, cut fresh Saturday and Sunday mornings from local farms. Come on down and get one of our premium trees (or two!) for a bit of Scouty magic in your home this Christmas!
@@ -19,7 +20,7 @@ Come find us at 1st Glen Iris Scout Hall, 101 Glen Iris Road, Glen Iris ([map](/
 *   Saturday 12th of December
 *   Sunday 13th of December
 *   Saturday 19th of December
-*   Sunday 20st of December
+*   Sunday 20th of December
 
 Our premium trees are priced by the following:
 
