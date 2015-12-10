@@ -13,6 +13,7 @@ published: true
 
 
 
+
 # Scout Christmas Trees
 
 Get ready for Christmas this December with a John Gardiner Rover Crew Christmas tree, cut fresh Saturday and Sunday mornings from local farms. Come on down and get one of our premium trees (or two!) for a bit of Scouty magic in your home this Christmas!
@@ -34,7 +35,7 @@ Our premium trees are priced by the following:
 *   Small trees: $55
 *   Medium trees: $65
 *   Large trees: $75
-*   (Extra large trees price by height)
+*   (Extra large trees priced by height)
 *   Regular stands: $25
 
 Local delivery is available for $10 per tree.
