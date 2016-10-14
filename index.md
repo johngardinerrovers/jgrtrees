@@ -54,3 +54,13 @@ Delivery outside this area may be arranged upon request, but will require an ord
 <a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Pre-order your tree today!</a>
 
 <iframe name="f102340ce8" width="1000px" height="1000px" frameborder="0" allowtransparency="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?app_id=113869198637480&amp;channel=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter%2F7r8gQb8MIqE.js%3Fversion%3D41%23cb%3Df25a8bf89%26domain%3Ddevelopers.facebook.com%26origin%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Ff12aa7bbdc%26relation%3Dparent.parent&amp;href=https%3A%2F%2Fwww.facebook.com%2FJGRtrees&amp;locale=en_GB&amp;sdk=joey&amp;share=true&amp;show_faces=false" style="border: none; visibility: visible; width: 450px; height: 20px;" class=""></iframe>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.facebook.com/jgr1938" data-width="450" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
