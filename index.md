@@ -18,7 +18,7 @@ published: true
 
 Get ready for Christmas this December with a Christmas Tree from John Gardiner Rover Crew and 1st Glen Iris Scout Group. Our trees are freshly cut Saturday and Sunday mornings from local farms, and brought to Glen Iris for your convenience. Come on down and get one of our premium trees (or two!) to add a bit of Scouty magic to your home this Christmas!
 
-<a class='display-mobile btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Pre-order your tree today!</a>
+<a class='display-mobile btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Click to pre-order your tree today!</a>
 
 Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Glen Iris ([map](//goo.gl/maps/sYDCt)) between 9:30am and 3pm on:
 
@@ -51,7 +51,7 @@ Delivery outside this area may be arranged upon request, but will require an ord
 
 </div>
 
-<a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Pre-order your tree today!</a>
+<a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Click to pre-order your tree today!</a>
 
 Like John Gardiner Rover Crew on Facebook!
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fjgr1938&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
