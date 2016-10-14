@@ -20,7 +20,7 @@ Get ready for Christmas this December with a Christmas Tree from John Gardiner R
 
 <a class='display-mobile btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Pre-order your tree today!</a>
 
-Come find us at 1st Glen Iris Scout Hall, 101 Glen Iris Road, Glen Iris ([map](//goo.gl/maps/sYDCt)) between 9:30am and 3pm on:
+Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Glen Iris ([map](//goo.gl/maps/sYDCt)) between 9:30am and 3pm on:
 
 *   Sunday 27th of November 2016 (pre-orders only, til midday)
 *   Saturday 3rd of December 2016
