@@ -14,7 +14,7 @@ published: true
 
 
 
-# Scout Christmas Trees
+# Scout Christmas Trees 2016
 
 Get ready for Christmas this December with a John Gardiner Rover Crew Christmas tree, cut fresh Saturday and Sunday mornings from local farms. Come on down and get one of our premium trees (or two!) for a bit of Scouty magic in your home this Christmas!
 
