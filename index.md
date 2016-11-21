@@ -45,8 +45,6 @@ Home delivery is available for $10 per tree to the local area.
 
 <div class="expand">
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CXh64A9YORq7921lXsSo75disY8&ll=-37.848127,145.075660&z=11" width="640" height="480" scrolling="no"></iframe>
-
 ![Delivery regions](images/Delivery_region-703fb415.png)
 
 Delivery outside this area may be arranged upon request, but will require an order greater than $100 and delivery fee will depend on location and number of trees.
