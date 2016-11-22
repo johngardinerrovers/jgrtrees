@@ -40,7 +40,9 @@ Our premium trees are priced by the following:
 *   Large stands: $35
 
 Home delivery is available for $10 per tree to the local area.
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CXh64A9YORq7921lXsSo75disY8" width="640" height="480"></iframe>
+
 <h2 data-action="expand">See our delivery region</h2>
 
 <div class="expand">
