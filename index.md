@@ -18,7 +18,7 @@ published: true
 
 Get ready for Christmas this December with a Christmas Tree from John Gardiner Rover Crew and 1st Glen Iris Scout Group. Our trees are freshly cut Saturday and Sunday mornings from local farms, and brought to Glen Iris for your convenience. Come on down and get one of our premium trees (or two!) to add a bit of Scouty magic to your home this Christmas!
 
-<a class='display-mobile btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Click to pre-order your tree today!</a>
+<a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Click to pre-order your tree today!</a>
 
 Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Glen Iris ([map](//goo.gl/maps/sYDCt)) between 9:30am and 3pm on:
 
@@ -39,19 +39,11 @@ Our premium trees are priced by the following:
 *   Regular stands: $25
 *   Large stands: $35
 
-Home delivery is available for $10 per tree to the local area.
-
-<h2 data-action="expand">See our delivery region</h2>
-
-<div class="expand">
+Home delivery is available for $10 per tree to the local area, marked in red on the map below.
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1CXh64A9YORq7921lXsSo75disY8" width="640" height="480"></iframe>
 
-![Delivery regions](images/Delivery_region-703fb415.png)
-
 Delivery outside this area may be arranged upon request, but will require an order greater than $100 and delivery fee will depend on location and number of trees.
-
-</div>
 
 <a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Click to pre-order your tree today!</a>
 
