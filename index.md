@@ -32,9 +32,9 @@ Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Gle
 
 Our premium trees are priced by the following:
 
-*   Small trees: $55
-*   Medium trees: $65
-*   Large trees: $75
+*   Small trees (4-5ft): $55
+*   Medium trees (5-6ft): $65
+*   Large trees (6-7ft): $75
 *   (Extra large trees priced by height)
 *   Regular stands: $25
 *   Large stands: $35
