@@ -22,7 +22,7 @@ Get ready for Christmas this December with a Christmas Tree from John Gardiner R
 
 Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Glen Iris ([map](//goo.gl/maps/sYDCt)) between 9:30am and 3pm on:
 
-*   Sunday 27th of November 2017 (pre-orders only, til midday)
+*   Sunday 26th of November 2017 (pre-orders only, til midday)
 *   Saturday 2nd of December 2017
 *   Sunday 3rd of December 2017
 *   Saturday 9th of December 2017
@@ -30,14 +30,7 @@ Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Gle
 *   Saturday 16th of December 2017
 *   Sunday 17th of December 2017
 
-Our premium trees are priced by the following:
-
-*   Small trees (4-5ft): $55
-*   Medium trees (5-6ft): $65
-*   Large trees (6-7ft): $75
-*   (Extra large trees priced by height)
-*   Regular stands: $25
-*   Large stands: $35
+Prices to follow shortly.
 
 Home delivery is available for $10 per tree to the local area, marked in red on the map below.
 
