@@ -31,12 +31,12 @@ Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Gle
 *   Sunday 17th of December 2017
 
 Trees sizes available:
-*   small 
-*   medium 
-*   large
-*   extra large
+*   small - $55
+*   medium - $65
+*   large - $75
+*   extra large -$80
 
-Prices to follow shortly.  Tree stands are also available.
+Tree stands are also available.
 
 Home delivery is available for $10 per tree to the local area, marked in red on the map below.
 
