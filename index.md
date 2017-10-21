@@ -36,7 +36,7 @@ Trees sizes available:
 *   large - $75
 *   extra large -$80
 
-Tree stands are also available.
+Small ($25) and large ($35) Tree stands  also available.
 
 Home delivery is available for $10 per tree to the local area, marked in red on the map below.
 
@@ -44,7 +44,7 @@ Home delivery is available for $10 per tree to the local area, marked in red on 
 
 Delivery outside this area may be arranged upon request, but will require an order greater than $100 and delivery fee will depend on location and number of trees.
 
-<a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/Booking/BookingEventSummary.aspx?eid=236729'>Click to pre-order your tree today!</a>
+<a class='btn btn-block btn-lg btn-primary' href='//www.trybooking.com/SRNS'>Click to pre-order your tree today!</a>
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fjgr1938&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
