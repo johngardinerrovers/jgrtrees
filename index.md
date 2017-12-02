@@ -34,7 +34,7 @@ Trees sizes available:
 *   small - $55
 *   medium - $65
 *   large - $75
-*   extra large -$80
+*   extra large -starting from $80
 
 Small ($25) and large ($35) Tree stands  also available.
 
