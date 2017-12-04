@@ -36,7 +36,7 @@ Trees sizes available:
 *   large - $75
 *   extra large -starting from $80
 
-Small ($25)Tree stands  also available.
+Small ($25) Tree stands also available.
 
 Home delivery is available for $10 per tree to the local area, marked in red on the map below.
 
