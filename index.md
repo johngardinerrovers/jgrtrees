@@ -28,7 +28,6 @@ Come find us at 1st Glen Iris Scout Hall, Ferndale Park, 101 Glen Iris Road, Gle
 *   Saturday 9th of December 2017
 *   Sunday 10th of December 2017
 *   Saturday 16th of December 2017
-*   Sunday 17th of December 2017
 
 Trees sizes available:
 *   small - $55
